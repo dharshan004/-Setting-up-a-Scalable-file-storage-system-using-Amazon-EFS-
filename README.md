@@ -31,8 +31,8 @@ cd /var/www/html
 ls
 cat file  # Verify shared access by reading content created in Instance 1
 ```
-### REGISTER NUMBER: 212222040087
-### NAME : Lokesh K
+### REGISTER NUMBER: 212222040036
+### NAME : dharshan s
 ## OUTPUT
 ### Both EC2 instances showing EFS mounting.
 ![image](https://github.com/user-attachments/assets/912f1d2a-1494-4863-ae26-9e36cd637628)
